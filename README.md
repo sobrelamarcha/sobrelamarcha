@@ -1,6 +1,6 @@
-- 👋 Hola, soy @sobrelamarcha
-- 👀 Me gusta vivir decidiendo una intención virtuosa en las cosas que hago. Además me dedico actualmente a la programación y diseño gráfico.
-- 🌱 Sobre temas de programación, actualmente realizo cosas en PHP, JS, TypeScript, Angular, Python. Me gusta experimentar y estar abierto.
+- 👋 Hi, I'm @sobrelamarcha.
+- 👀 I like living with a virtuous intention with the things I do. I am currently dedicated to programming and graphic design.
+- 🌱 I like to experiment and be open to new things.
 
 
 <!---
