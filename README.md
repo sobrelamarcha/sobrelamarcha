@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @sobrelamarcha.
-- 👀 I like living with a virtuous intention with the things I do. I am currently dedicated to programming and graphic design.
-- 🌱 I like to experiment and be open to new things.
+- 👀 I am currently dedicated to programming.
+
 
 
 <!---
